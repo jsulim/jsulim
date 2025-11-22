@@ -18,7 +18,7 @@ Sangmyung University
 - Medical Imaging Lab(IMSI Lab), Seoul National University
   - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
   - https://snulabs.github.io/imsi/
-  
+
 (Editing)
 | Duration | Organ | Task | Notes | 
 |---------|------|------|------|
@@ -43,7 +43,7 @@ Sangmyung University
 |---------|------|------|------|
 | 2025.11~ | DACON | The 2nd Medical AI (MAI) Competition |(will be replaced my projet repo) |
 | 2025.11~ | IMSI Lab(Seoul National University) | IMSI Lab Web Programming | Link |
-| 2025.08~ | IMSI Lab(Seoul National University) | Medical AI | Link |
+| 2025.08~ | IMSI Lab(Seoul National University) | Medical AI Research | Link |
 | 2025.01~2025.06 | GDSKOREA |The Construction of Address Database |  |
 | 2024.08~2024.09 | Korea Sports Promotion Foundation | Motoboat Race Data Analysis |  |
 | 2024.03 ~2024.06 | Sangmyung University | Subway Data Analysis | Certification |
