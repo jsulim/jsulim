@@ -14,6 +14,31 @@ Sangmyung University
   - Medical AI
   - 
 
+## Research Experiences
+- Medical Imaging Lab(IMSI Lab), Seoul National University
+  - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
+  - https://snulabs.github.io/imsi/
+
+## 🧑‍💼 Career(Editing)
+
+| Duration | Organ | Task | Notes |
+|---------|------|------|------|
+| 2025.10~2025.11 | Korea Sports Promotion Foundation| Sports biomechanics | Certification |
+| 2025.09~ | MOMENTUM | Data Analysis | - |
+| 2024.11~ | OUTTA (AI Education Org) | member | - |
+| 2024.08~2024.09 | Korea Sports Promotion Foundation | Motoboat Race Data Analysis Contest | 8/33 |
+| 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | - |
+| 2023.10 ~2024.02 | Seoul Software Academy | App Programming | Certification |
+
+# 🧑 Projects (Editing)
+| Duration | Organ | Task | Notes |
+|---------|------|------|------|
+| 2025.11~ | IMSI Lab(Seoul National University) | IMSI Lab Web Programming | Link |
+| 2024.03 ~2024.06 | Sangmyung University | Subway Data Analysis | Certification |
+| 2023.10 ~2024.02 | Seoul Software Academy | App Programming | Certification |
+|  |  |  |  |
+|  |  |  |  |
+
 ## 🛠 Tech Stack
 
 ## Recent Projects
