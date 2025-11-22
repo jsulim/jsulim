@@ -5,15 +5,13 @@
 </p> -->
 
 ## 👨‍💻 About Me
-- AI Researcher / 3D Medical Vision / Diffusion / MAE
+  - AI Medical Engineer 
 
 ## 🎓 Education
 Sangmyung University
 
-## 📚 Research Experiences
-- ** University – Medical Imaging Lab**
-  - 
-- **Biomechanics Analysis**
+## 📚 Interests
+  - Medical AI
   - 
 
 ## 🛠 Tech Stack
@@ -21,6 +19,7 @@ Sangmyung University
 ## Recent Projects
 
 ## Contact
+- Blog: https://jannfbdata.tistory.com/
 - Email: eutume5@gmail.com
 - GitHub: [jsulim](https://github.com/jsulim)
 
