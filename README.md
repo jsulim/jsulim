@@ -55,6 +55,7 @@ Sangmyung University
 
 ## Contact
 - Blog: https://jannfbdata.tistory.com/
+- linkedin: https://www.linkedin.com/in/junsu-lim-308151259/
 - Email: eutume5@gmail.com
 - GitHub: [jsulim](https://github.com/jsulim)
 
