@@ -23,8 +23,6 @@ Sangmyung University
 | Duration | Organ | Task | Notes | 
 |---------|------|------|------|
 | 2025.10~2025.11 | Korea Sports Promotion Foundation| Sports Biomechanics | Certification |
-| 2025.09~ | MOMENTUM((Data Analysis Education Org)) | Data Analysis | - |
-| 2025.01~06 | GDSKOREA | Data Analyst | Intern |
 
 ## 🧑‍💼 Career(Editing)
 
