@@ -12,7 +12,7 @@ Sangmyung University
 
 ## 📚 Interests
   - Medical AI
-  - 
+  - Biomechanics
 
 ## Research Experiences
 - Medical Imaging Lab(IMSI Lab), Seoul National University
@@ -23,7 +23,7 @@ Sangmyung University
 
 | Duration | Organ | Task | Notes |
 |---------|------|------|------|
-| 2025.10~2025.11 | Korea Sports Promotion Foundation| Sports biomechanics | Certification |
+| 2025.10~2025.11 | Korea Sports Promotion Foundation| Sports Biomechanics | Certification |
 | 2025.09~ | MOMENTUM | Data Analysis | - |
 | 2024.11~ | OUTTA (AI Education Org) | member | - |
 | 2024.08~2024.09 | Korea Sports Promotion Foundation | Motoboat Race Data Analysis Contest | 8/33 |
