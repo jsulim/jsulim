@@ -5,7 +5,7 @@
 </p> -->
 
 ## 👨‍💻 About Me
-  - AI Medical Engineer 
+  - Healthcare AI Engineer
 
 ## 🎓 Education
 Sangmyung University, Big Data Convergence
