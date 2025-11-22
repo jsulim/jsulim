@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Junsu 👋</h1>
+<h1 align="center">Junsu's Archive</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 - AI Researcher / 3D Medical Vision / Diffusion / MAE
@@ -12,7 +12,7 @@ Sangmyung University
 
 ## 📚 Research Experiences
 - ** University – Medical Imaging Lab**
-  - MAE (MAEgic) pretraining, 3D CNN refiner, DiT-based generation
+  - 
 - **Biomechanics Analysis**
   - 
 
