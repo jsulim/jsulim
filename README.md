@@ -19,13 +19,13 @@ Sangmyung University
   - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
   - https://snulabs.github.io/imsi/
 
-| Duration | Organ | Task | Notes | 
+| Duration |  Organization | Task | Notes | 
 |---------|------|------|------|
 |  | | | |
 
 ## 🧑‍💼 Career
 
-| Duration | Organ | Task | Notes |
+| Duration |  Organization | Task | Notes |
 |---------|------|------|------|
 | 2025.10~2025.11 | Korea Sports Promotion Foundation| Sports Biomechanics | Certification |
 | 2025.09~ | MOMENTUM((Data Analysis Education Org)) | Data Analysis | - |
@@ -37,7 +37,7 @@ Sangmyung University
 | 2023.10 ~2024.02 | Seoul Software Academy | App Programming | Certification |
 
 # 🧑 Projects
-| Duration | Organ | Task | Notes |
+| Duration |  Organization | Task | Notes |
 |---------|------|------|------|
 | 2025.11~ | DACON | The 2nd Medical AI (MAI) Competition |(will be replaced my projet repo) |
 | 2025.11~ | IMSI Lab(Seoul National University) | IMSI Lab Web Programming | Link |
