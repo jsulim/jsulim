@@ -33,7 +33,6 @@ Sangmyung University, Big Data Convergence
 | 2025.01~06 | GDSKOREA | Data Analyst | Intern |
 | 2024.11~ | OUTTA (AI Education Org) | member | - |
 | 2024.08~2024.09 | Korea Sports Promotion Foundation | Motorboat Race Data Analysis Contest |  |
-| 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | - |
 | 2023.10 ~2024.02 | Seoul Software Academy | App Programming | Certification |
 
 # 🧑 Projects
@@ -44,6 +43,7 @@ Sangmyung University, Big Data Convergence
 | 2025.08~ | IMSI Lab | Deep learning in medical image | Link |
 | 2025.01~2025.06 | GDSKOREA |The Construction of Address Database |  |
 | 2024.08~2024.09 | Korea Sports Promotion Foundation | Motoboat Race Data Analysis |  |
+| 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | - |
 | 2024.03 ~2024.06 | Sangmyung University | Subway Data Analysis | Certification |
 | 2023.10 ~2024.02 | Seoul Software Academy | App Programming | Certification |
 |  |  |  |  |
