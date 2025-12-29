@@ -1,4 +1,4 @@
-<h1 align="center">Junsu's Archive</h1>
+<h1 align="center">Archive of Data Engineering & Analytics </h1>
 
 <!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
