@@ -15,7 +15,7 @@
 
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.12 ~2026.04 | SeSAC(Seoul Software Academy) | Cloud, Network | [repo](https://drive.google.com/drive/folders/1L-Q38hjLmLJT2IGSfAZxPEcOe3ICA9mq?hl=ko)]
+| 2025.12 ~2026.04 | SeSAC(Seoul Software Academy) | Cloud, Network | [repo](https://drive.google.com/drive/folders/1L-Q38hjLmLJT2IGSfAZxPEcOe3ICA9mq?hl=ko)|
 | 2025.10~2025.11 | 국민체육진흥공단| 스포츠생체역학 |[repo](https://drive.google.com/drive/folders/1B1w24iiBYxFqK72Y1sNAxSURvrOeudxf?hl=ko) |
 | 2025.09~ | MOMENTUM(상명대 데이터분석 학술 및 교육단체) | 데이터분석 및 엔지니어링 | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
 | 2025.08~ | IMSI Lab | Medical AI 연구 | [repo](https://snulabs.github.io/imsi/) |
