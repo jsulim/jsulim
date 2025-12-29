@@ -34,7 +34,7 @@
 | 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터 엔지니어 인턴 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
 | 2024.08~2024.09 | 국민체육진흥공단 | 경정데이터분석 경진대회 (7/36) ] |[repo](https://drive.google.com/drive/folders/1_N5ZN4XKb6fLca0Ygxt87VvGw1Dy_Qu_?hl=ko) |  |
 | 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | [blog](https://blog.outta.ai/) |
-| 2024.03 ~2024.06 | 상명대학교(Sangmyung University) | Subway Data Analysis | Certification |
+| 2024.03 ~2024.06 | MOMENTUM(상명대 데이터분석 학술 및 교육단체) | Subway Data Analysis | [repo](https://drive.google.com/drive/folders/1aHgqfwkVyPFAZ5n7kei-h92vXJFMcGnV?hl=ko) |
 | 2023.10 ~2024.02 | SeSAC(Seoul Software Academy) | App Programming | [repo](https://github.com/Sesac-team-03/TreasureHunt) |
 |  |  |  |  |
 |  |  |  |  |
@@ -49,6 +49,12 @@
   | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |(will be replaced my projet repo) |
   | 대한전자공학회 | IMSI Lab | Medical | [repo](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
   | ICEIC 2026 | IMSI Lab | Medical AI | (will be replaced my projet repo)]
+
+### Certificate 
+- 빅데이터분석기사
+- SQLD
+- ADSP
+- TOEIC(945)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
