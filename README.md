@@ -17,7 +17,7 @@
 |---------|------|------|------|
 | 2025.01~06 | GDSKOREA | 데이터 엔지니어 | Intern(Data Engineering) |
 
-## 🧑‍💼 Career
+## 🧑‍💼 Extracurricular Activities (EC)
 
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
@@ -25,7 +25,6 @@
 | 2025.10~2025.11 | 국민체육진흥공단| Biomechanics(생체역학) 데이터분석 |[repo](https://drive.google.com/drive/folders/1B1w24iiBYxFqK72Y1sNAxSURvrOeudxf?hl=ko) |
 | 2025.09~ | MOMENTUM(상명대 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
 | 2025.08~ | IMSI Lab | Medical AI Research | [repo](https://snulabs.github.io/imsi/) |
-| 2025.01~06 | GDSKOREA | 데이터 엔지니어 | Intern(Data Engineering) |
 | 2024.11~ | OUTTA (인공지능(AI) 교육단체) | Researcher | - |
 | 2023.10 ~2024.02 | SeSAC(Seoul Software Academy) | App Programming |  |
 
