@@ -12,6 +12,11 @@
   - Medical AI
   - Healthcare
 
+## Work Experience
+| Duration |  Organization | Task | Notes |
+|---------|------|------|------|
+| 2025.01~06 | GDSKOREA | 데이터 엔지니어 | Intern(Data Engineering) |
+
 ## 🧑‍💼 Career
 
 | Duration |  Organization | Task | Notes |
