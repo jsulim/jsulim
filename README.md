@@ -24,7 +24,7 @@
 | 2025.12 ~2026.04 | SeSAC(Seoul Software Academy) | Cloud, Network | [repo](https://drive.google.com/drive/folders/1L-Q38hjLmLJT2IGSfAZxPEcOe3ICA9mq?hl=ko)|
 | 2025.10~2025.11 | 국민체육진흥공단| Biomechanics(생체역학) 데이터분석 |[repo](https://drive.google.com/drive/folders/1B1w24iiBYxFqK72Y1sNAxSURvrOeudxf?hl=ko) |
 | 2025.09~ | MOMENTUM(상명대 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
-| 2025.08~ | IMSI Lab | Medical AI Research | [repo](https://snulabs.github.io/imsi/) |
+| 2025.08~ | IMSI Lab | Medical(의료) AI Research | [repo](https://snulabs.github.io/imsi/) |
 | 2024.11~ | OUTTA (인공지능(AI) 교육단체) | Researcher | - |
 | 2023.10 ~2024.02 | SeSAC(Seoul Software Academy) | App Programming |  |
 
@@ -34,7 +34,7 @@
 | 2026.02~ | SeSAC(Seoul Software Academy) | Up in the air |(will be replaced my projet repo)|
 | 2025.11~ | DACON | The 2nd Medical AI (MAI) 경진대회 |(will be replaced my projet repo), The top 10% |
 | 2025.11~ | IMSI Lab | IMSI Lab Web Programming | (will be replaced my projet repo) ,[repo](https://snulabs.github.io/imsi/) |
-| 2025.08~ | IMSI Lab | Medical AI Research | (will be replaced my projet repo) |
+| 2025.08~ | IMSI Lab | Medical(의료) AI Research | (will be replaced my projet repo) |
 | 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터 엔지니어 인턴 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
 | 2024.08~2024.09 | 국민체육진흥공단 | 경정데이터분석 경진대회 (7/36) ] |[repo](https://drive.google.com/drive/folders/1_N5ZN4XKb6fLca0Ygxt87VvGw1Dy_Qu_?hl=ko) |  |
 | 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | [blog](https://blog.outta.ai/) |
