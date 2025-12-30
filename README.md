@@ -51,7 +51,7 @@
   | Journal & Conference |  Organization | subject | Notes |
   |---------|------|------|------|
   | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |(will be replaced my projet repo) |
-  | 대한전자공학회 | IMSI Lab | Medical | [repo](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
+  | 대한전자공학회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [repo](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
   | ICEIC 2026 | IMSI Lab | Medical AI | (will be replaced my projet repo)]
 
 ### Certificate 
