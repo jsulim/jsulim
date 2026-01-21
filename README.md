@@ -15,7 +15,7 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.01~06 | GDSKOREA | 데이터 엔지니어 | Intern(Data Engineering) |
+| 2025.01~08 | GDSKOREA | 데이터 엔지니어 | Intern(Data Engineering) |
 
 ## 🧑‍💼 Extracurricular Activities (EC)
 
