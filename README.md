@@ -16,7 +16,7 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Data Engineering & Analytics 기록 보관소 </h1>
+| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | [repo]() </h1>
 
 <!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
