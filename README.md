@@ -69,9 +69,8 @@
   ### publication
   | Journal & Conference |  Organization | subject | Notes |
   |---------|------|------|------|
-  | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |(will be replaced my projet repo) |
-  | ISBI 2026 | IMSI Lab | 3D-LLDM: Label-Guided 3D Latent Diffusion Modelfor Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation
- |(will be replaced my projet repo) |
+  | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |[Poster](https://drive.google.com/file/d/1g2Gz-rDwRo56fjrXWHTcutVtWx6VVTGl/view)|
+  | ISBI 2026 | IMSI Lab | 3D-LLDM: Label-Guided 3D Latent Diffusion Modelfor Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation (will be replaced my projet repo) |
   | 대한전자공학회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [repo](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
   | ICEIC 2026 | IMSI Lab | Medical AI | (will be replaced my projet repo)]
 
