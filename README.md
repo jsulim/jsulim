@@ -1,4 +1,4 @@
-<h1 align="center"> Data Engineering & Analytics 기록 보관소 </h1>
+<h1 align="center"> Jsulim's Data Engineering & Analytics </h1>
 
 <!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
   - 헬스케어 데이터 엔지니어
+  - - 
   - [자기소개서](https://www.notion.so/Cover-Letter-2566454224c181c39a26f26ee90921cc?source=copy_link)
 
 ## 📚 Interests
@@ -71,7 +72,7 @@
   |---------|------|------|------|
   | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |[Poster](https://drive.google.com/file/d/1g2Gz-rDwRo56fjrXWHTcutVtWx6VVTGl/view)|
   | ISBI 2026 | IMSI Lab | 3D-LLDM: Label-Guided 3D Latent Diffusion Modelfor Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation (will be replaced my projet repo) |
-  | 대한전자공학회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [repo](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
+  | 대한전자공학회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [thesis](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
   | ICEIC 2026 | IMSI Lab | Medical AI | (will be replaced my projet repo)]
 
 ### Certificate 
