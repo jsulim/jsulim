@@ -50,7 +50,7 @@
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
 | 2026.02~ | SeSAC(Seoul Software Academy) | Up in the air |(will be replaced my projet repo)|
-| 2025.11~ | DACON | The 2nd Medical AI (MAI) 경진대회 |[repo](https://dacon.io/competitions/official/236630/overview/description), The top 10% |
+| 2025.11~ | DACON | The 2nd Medical AI (MAI) 경진대회 |[DACON](https://dacon.io/competitions/official/236630/overview/description), The top 10% |
 | 2025.08~ | 서울대학교 CAPP Lab | Medical(의료) AI Research | (will be replaced my projet repo) |
 | 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터베이스 엔지니어 인턴 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
 | 2024.08~2024.09 | 국민체육진흥공단 | 경정데이터분석 경진대회, 최종순위 (7/36) ] |[repo](https://drive.google.com/drive/folders/1_N5ZN4XKb6fLca0Ygxt87VvGw1Dy_Qu_?hl=ko) |  |
