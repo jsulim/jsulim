@@ -8,7 +8,7 @@
   - 헬스케어 데이터 엔지니어
   - 헬스케어 도메인에서 의료·임상 데이터를 안정적으로 다루고,
 AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프라를 설계하는 데이터 엔지니어입니다.
-  - [자기소개서](https://www.notion.so/Cover-Letter-2566454224c181c39a26f26ee90921cc?source=copy_link)
+  - [Cover letter](https://www.notion.so/Cover-Letter-2566454224c181c39a26f26ee90921cc?source=copy_link)
 
 ## 📚 Interests
   - Data Engineering & Analytics 
