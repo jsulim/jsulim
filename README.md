@@ -73,7 +73,7 @@ AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프�
   |---------|------|------|------|
   | NVDIA GTC 2026 | IMSI Lab | VLM, Medical |[Poster](https://drive.google.com/file/d/1g2Gz-rDwRo56fjrXWHTcutVtWx6VVTGl/view)|
   | ISBI 2026 | IMSI Lab | 3D-LLDM: Label-Guided 3D Latent Diffusion Modelfor Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation (will be replaced my projet repo) |
-  | 대한전자공학회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [thesis](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
+  | 2025 대한전자공학회 추계학술대회 | IMSI Lab | MINTI_지능형 해부학적 비전_언어 모델을 위한 미세 경계선 인스트럭셔널 학습 | [thesis](https://drive.google.com/drive/folders/1AC7YnzHYMaYpztsWzbiEfos4Z1pb-ymU?hl=ko) |
   | ICEIC 2026 | IMSI Lab | Medical AI | (will be replaced my projet repo)]
 
 ### Certificate 
