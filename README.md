@@ -67,7 +67,6 @@ AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프�
 - - 컴퓨터구조 및 병렬처리 연구실, 의료영상 기반 병변예측 모델 개발, Masked Image Modeling, Transformer
   - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
   - http://capp.snu.ac.kr/imsi/
-  - https://imsilab.github.io/imsi/
   - https://imsilab.github.io/authors/visitors/junsu-lim/
   ### publication
   | Journal & Conference |  Organization | subject | Notes |
