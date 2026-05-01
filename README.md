@@ -5,15 +5,15 @@
 </p> -->
 
 ## 👨‍💻 About Me
-  - 헬스케어 데이터 엔지니어
-  - 헬스케어 도메인에서 의료·임상 데이터를 안정적으로 다루고,
-AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프라를 설계하는 데이터 엔지니어입니다.
-  - [Cover letter](https://www.notion.so/Cover-Letter-2566454224c181c39a26f26ee90921cc?source=copy_link)
+  - 데이터 엔지니어
+  - 헬스케어와 같은 및 여러 도메인에서 데이터를 안정적으로 다루고,
+  AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프라를 설계하는 데이터 엔지니어입니다.
 
 ## 📚 Interests
   - Data Engineering & Analytics 
   - Medical AI
   - Healthcare
+  - Business
 
 ## Work Experience
 | Duration |  Organization | Task | Notes |
@@ -35,6 +35,7 @@ AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프�
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
+| 2025.03~04 | QMR | AI 엔지니어 | freelancer(Data Engineering) |
 | 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
 
 ## 🧑‍💼 Extracurricular Activities (EC)
@@ -42,7 +43,6 @@ AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프�
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
 | 2025.12 ~2026.04 | SeSAC(Seoul Software Academy) | Cloud, Network | [repo](https://drive.google.com/drive/folders/1L-Q38hjLmLJT2IGSfAZxPEcOe3ICA9mq?hl=ko)|
-| 2025.10~2025.11 | 국민체육진흥공단| Biomechanics(생체역학) 데이터분석 |[repo](https://drive.google.com/drive/folders/1B1w24iiBYxFqK72Y1sNAxSURvrOeudxf?hl=ko) |
 | 2025.09~2025.12 | MOMENTUM (상명대학교 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
 | 2024.12~2025.12 |서울대학교 CAPP Lab| Medical(의료) AI Research | [Homepage](http://capp.snu.ac.kr/) , https://imsilab.github.io/authors/visitors/junsu-lim/ |
 | 2024.11~ | OUTTA (인공지능(AI) 교육단체) | Researcher | [OUTTA repo](https://github.com/youngunghan/2025-OUTTA-Gen-AI) |
