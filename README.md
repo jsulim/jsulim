@@ -18,25 +18,12 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | [repo]() </h1>
+| 2025.03~04 | QMR | AI 엔지니어 | freelancer(Data Engineering) |
+| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
 
 <!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
 </p> -->
-
-## 👨‍💻 About Me
-  - 헬스케어 데이터 엔지니어
-
-## 📚 Interests
-  - Data Engineering & Analytics 
-  - Medical AI
-  - Healthcare
-
-## Work Experience
-| Duration |  Organization | Task | Notes |
-|---------|------|------|------|
-| 2025.03~04 | QMR | AI 엔지니어 | freelancer(Data Engineering) |
-| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
 
 ## 🧑‍💼 Extracurricular Activities (EC)
 
