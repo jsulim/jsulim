@@ -76,9 +76,9 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Contact
-- Blog: https://jannfbdata.tistory.com/
+- Blog: 
 - Linkedin: https://www.linkedin.com/in/%EC%A4%80%EC%88%98-%EC%9E%84-308151259/
-- Email: eutume5@gmail.com, 202115042@sangmyung.ac.kr
+- Email: eutume5@gmail.com, 202115042@sangmyung.ac.kr, junsu.lim@outta.ai
 - GitHub: [jsulim](https://github.com/jsulim)
 
 
