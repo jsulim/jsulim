@@ -14,8 +14,8 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.03~ | Hi4Labs | AI 엔지니어 | Freelancer(Data Engineering) |
-| 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
+| 2025.03~ | Hi4Labs | AI Enginner | Freelancer(Data Engineering) |
+| 2025.01~08 | GDSKOREA | SQL Data Analyst | full-time(Data Analysis) |
 
 <!-- <p align="center">
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
