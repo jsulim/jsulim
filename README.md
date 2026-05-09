@@ -14,7 +14,7 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.03 | Hi4Labs | AI 엔지니어 | Freelancer(Data Engineering) |
+| 2025.03~ | Hi4Labs | AI 엔지니어 | Freelancer(Data Engineering) |
 | 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
 
 <!-- <p align="center">
