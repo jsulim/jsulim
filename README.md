@@ -4,21 +4,17 @@
   <img src="https://github.com/jsulim/jsulim/blob/main/banner.png" width="100%" />
 </p> -->
 
-## 👨‍💻 About Me
-  - 데이터 엔지니어
-  - 헬스케어와 같은 및 여러 도메인에서 데이터를 안정적으로 다루고,
-  AI 모델이 실제로 활용될 수 있는 데이터 파이프라인과 인프라를 설계하는 데이터 엔지니어입니다.
-
 ## 📚 Interests
   - Data Engineering & Analytics 
   - Medical AI
   - Healthcare
-  - Business
+  - Business & finance
+  - Education
 
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.03~04 | QMR | AI 엔지니어 | freelancer(Data Engineering) |
+| 2025.03 | Hi4Labs | AI 엔지니어 | Freelancer(Data Engineering) |
 | 2025.01~08 | GDSKOREA | 데이터베이스 엔지니어 | Intern(Data Engineering) |
 
 <!-- <p align="center">
@@ -29,8 +25,7 @@
 
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.12 ~2026.04 | SeSAC(Seoul Software Academy) | Cloud, Network | [repo](https://drive.google.com/drive/folders/1L-Q38hjLmLJT2IGSfAZxPEcOe3ICA9mq?hl=ko)|
-| 2025.09~2025.12 | MOMENTUM (상명대학교 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
+| 2025.09~ | MOMENTUM (상명대학교 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
 | 2024.12~2025.12 |서울대학교 CAPP Lab| Medical(의료) AI Research | [Homepage](http://capp.snu.ac.kr/) , https://imsilab.github.io/authors/visitors/junsu-lim/ |
 | 2024.11~ | OUTTA (인공지능(AI) 교육단체) | Researcher | [OUTTA repo](https://github.com/youngunghan/2025-OUTTA-Gen-AI) |
 | 2023.10 ~2024.02 | SeSAC(Seoul Software Academy) | App Programming | [repo](https://github.com/Sesac-team-03/TreasureHunt) |
@@ -38,7 +33,6 @@
 ## 🧑 Projects
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2026.02~ | SeSAC(Seoul Software Academy) | Up in the air |(will be replaced my projet repo)|
 | 2025.11~ | DACON | The 2nd Medical AI (MAI) 경진대회 |[DACON](https://dacon.io/competitions/official/236630/overview/description), The top 10% |
 | 2025.08~ | CAPP Lab | Medical(의료) AI Research | (will be replaced my projet repo) |
 | 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터베이스 엔지니어 인턴 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
