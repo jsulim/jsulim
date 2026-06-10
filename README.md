@@ -14,7 +14,8 @@
 ## Work Experience
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
-| 2025.03~ | Hi4Labs | AI Enginner | Freelancer(Data Engineering) |
+| 2026.06~ | Intween | AI Enginner | full-time(Data Engineering) |
+| 2026.04~05 | Hi4Labs | AI Enginner | Freelancer(Data Engineering) |
 | 2025.01~08 | GDSKOREA | SQL Data Analyst | full-time(Data Analysis) |
 
 <!-- <p align="center">
