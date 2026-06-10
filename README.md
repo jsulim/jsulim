@@ -36,7 +36,7 @@
 |---------|------|------|------|
 | 2025.11~ | DACON | The 2nd Medical AI (MAI) 경진대회 |[DACON](https://dacon.io/competitions/official/236630/overview/description), The top 10% |
 | 2025.08~ | CAPP Lab | Medical(의료) AI Research | (will be replaced my projet repo) |
-| 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터베이스 엔지니어 인턴 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
+| 2025.01~2025.06 | 지디에스케이(GDSKOREA) |데이터베이스 구축 및 데이터분석 | [repo](https://drive.google.com/drive/folders/1jZLEunkr7oeThUdN0VOZjnKXuH2SfVMb?hl=ko) |
 | 2024.08~2024.09 | 국민체육진흥공단 | 경정데이터분석 경진대회, 최종순위 (7/36) ] |[repo](https://drive.google.com/drive/folders/1_N5ZN4XKb6fLca0Ygxt87VvGw1Dy_Qu_?hl=ko) |  |
 | 2024.07~2024.08 | OUTTA | OUTTA AI Boot Camp 2nd | [blog](https://blog.outta.ai/) |
 | 2024.03 ~2024.06 | MOMENTUM(상명대 데이터분석 학술 및 교육단체) | Subway Data Analysis | [repo](https://drive.google.com/drive/folders/1aHgqfwkVyPFAZ5n7kei-h92vXJFMcGnV?hl=ko) |
