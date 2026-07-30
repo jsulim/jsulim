@@ -27,7 +27,7 @@
 | Duration |  Organization | Task | Notes |
 |---------|------|------|------|
 | 2025.09~ | MOMENTUM (상명대학교 데이터분석 학술 및 교육단체) | Data Analytics & Engineering | [repo](https://www.notion.so/MOMENTUM-1b2ad70b446c80219cdbe3f061c463d4) |
-| 2024.12~2025.12 |서울대학교 CAPP Lab| Medical(의료) AI Research | [Homepage](http://capp.snu.ac.kr/) , https://imsilab.github.io/authors/visitors/junsu-lim/ |
+| 2024.12~2025.12 |IMSI Lab| Medical(의료) AI Research | [Homepage](http://capp.snu.ac.kr/imsi) , https://imsilab.github.io/authors/visitors/junsu-lim/ |
 | 2024.11~ | OUTTA (인공지능(AI) 교육단체) | Researcher | [OUTTA repo](https://github.com/youngunghan/2025-OUTTA-Gen-AI) |
 | 2023.10 ~2024.02 | SeSAC(Seoul Software Academy) | App Programming | [repo](https://github.com/Sesac-team-03/TreasureHunt) |
 
